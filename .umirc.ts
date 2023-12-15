@@ -8,5 +8,6 @@ export default defineConfig({
   ],
   npmClient: 'npm',
   plugins: ['@umijs/plugins/dist/dva'],
-  dva:{}
+  dva:{},
+  clientLoader: {}
 });
