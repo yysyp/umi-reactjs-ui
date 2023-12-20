@@ -1,4 +1,5 @@
-Follow umi guide: https://umijs.org/docs/guides/getting-started
+# Follow umi guide: https://umijs.org/docs/guides/getting-started
+# This umi 4 with simple application
 
 # Preconditions:
 	* node 14+ installed, You can use nvm/nvm-windows to manage node version.
@@ -38,6 +39,7 @@ Follow umi guide: https://umijs.org/docs/guides/getting-started
 		1.Simple App 你可以理解为纯净版的Umi，包含umi4文档上关于Guides下的所有功能，但是不包括Umi Max。
 		2.Ant Design Pro 包含Umi Max的完整功能，均可通过在.umirc.ts 或 config/config.ts中插拔式配置。 个人建议选择这个模版。
 		3.Vue Simple App 如果你的项目框架是vue则使用该模版。
+	npm install
 	npm run setup
 	npm run start
 	visit the http://localhost:8000/
